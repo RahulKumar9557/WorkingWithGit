@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Rpa Challenge",
+  "Type": "App",
+  "Id": "Q8BY4pT6xUCXeYCrrphFDA",
+  "Reference": "itM4v2DoJkKmcJ7PY-saeg/Q8BY4pT6xUCXeYCrrphFDA",
+  "Created": "2024-05-15T06:32:54.822292Z",
+  "Updated": "2024-05-15T06:32:54.822292Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
